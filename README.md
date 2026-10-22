@@ -1,4 +1,4 @@
-# Battle Scene prototype
+# Battle Scene prototype 2014
 Hand-coded in 2014. Just found the files and committed it.
 Python/Pygame learning and experimenting with classic Final Fantasy 1 style rpg battle scene
 
