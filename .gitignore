@@ -1,0 +1,6 @@
+*.pyc
+*.egg
+build/*
+dist/*.DS_Store
+_DS_Store
+*.reapeaks
