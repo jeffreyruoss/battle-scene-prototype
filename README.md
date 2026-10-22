@@ -1,4 +1,5 @@
 # Battle Scene prototype
+Hand-coded in 2014. Just found the files and committed it.
 Python/Pygame learning and experimenting with classic Final Fantasy 1 style rpg battle scene
 
 ![Battle scene](images/how-to-play-screenshot.png)
